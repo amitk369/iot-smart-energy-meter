@@ -1,0 +1,14 @@
+{
+  "status": "PASSED",
+  "sample_period_sec": 1.0,
+  "cadence_hz": 1.0,
+  "modbus_crc16_verified": true,
+  "over_current_threshold_a": 16.0,
+  "trip_events": [
+    {
+      "timestamp_sec": 10,
+      "reason": "CRITICAL_OVER_CURRENT_TRIP",
+      "current_a": 18.52
+    }
+  ]
+}
